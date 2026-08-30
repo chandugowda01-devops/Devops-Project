@@ -1,3 +1,7 @@
+Author: Chandana
+Date: 30/08/2026
+
+
 # DevOps Practice Repository
 
 A beginner-friendly DevOps portfolio project demonstrating an end-to-end workflow:
